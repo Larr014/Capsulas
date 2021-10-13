@@ -14,7 +14,10 @@
     <string name="micros">Micros</string>
     <string name="reservas">Reservas</string>
     <string name="pedidos">Pedidos</string>
-
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="Genero">Genero</string>
+    <string name="ciudad">Ciudad</string>
 
      <string name="abrir_drawer">Drawer Abierto</string>
     <string name="cerrar_drawer">Drawer Cerrado</string>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ciudades">
+        <item>Coquimbo</item>
+        <item>Copiapo</item>
+    </string-array>
+</resources>
