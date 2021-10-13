@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Capsulas app</string>
+    <string name="correo">Correo</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasenia2">Reingrese Contraseña</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="btnRegistrar">Registrar</string>
+    <string name="title_activity_olvidar_cuenta">OlvidarCuenta</string>
+    <string name="registrate">Crear Cuenta</string>
+    <string name="perfil">Perfil</string>
+    <string name="informacion">Información</string>
+    <string name="configuracion">Configuracion</string>
+    <string name="micros">Micros</string>
+    <string name="reservas">Reservas</string>
+    <string name="pedidos">Pedidos</string>
+
+
+     <string name="abrir_drawer">Drawer Abierto</string>
+    <string name="cerrar_drawer">Drawer Cerrado</string>
+
+
+</resources>

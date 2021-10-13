@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/larr0/AndroidStudioProjects/Capsulas/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/larr0/AndroidStudioProjects/Capsulas/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/larr0/AndroidStudioProjects/Capsulas/app/src/main/res/layout/actionbar_toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/larr0/AndroidStudioProjects/Capsulas/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/larr0/AndroidStudioProjects/Capsulas/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/larr0/AndroidStudioProjects/Capsulas/app/src/main/res/layout/activity_olvidar_cuenta.xml" value="0.1490036231884058" />
+        <entry key="..\:/Users/larr0/AndroidStudioProjects/Capsulas/app/src/main/res/layout/activity_principal1.xml" value="0.16" />
+        <entry key="..\:/Users/larr0/AndroidStudioProjects/Capsulas/app/src/main/res/layout/activity_registrar_cuenta.xml" value="0.33" />
+        <entry key="..\:/Users/larr0/AndroidStudioProjects/Capsulas/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Users/larr0/AndroidStudioProjects/Capsulas/app/src/main/res/layout/bottomappbar.xml" value="0.1" />
+        <entry key="..\:/Users/larr0/AndroidStudioProjects/Capsulas/app/src/main/res/layout/bottombar.xml" value="0.18" />
+        <entry key="..\:/Users/larr0/AndroidStudioProjects/Capsulas/app/src/main/res/layout/bottombar_tabs.xml" value="0.1" />
+        <entry key="..\:/Users/larr0/AndroidStudioProjects/Capsulas/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/larr0/AndroidStudioProjects/Capsulas/app/src/main/res/layout/fragment_fragmento1.xml" value="0.1" />
+        <entry key="..\:/Users/larr0/AndroidStudioProjects/Capsulas/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/larr0/AndroidStudioProjects/Capsulas/app/src/main/res/layout/fragment_informacion.xml" value="0.1" />
+        <entry key="..\:/Users/larr0/AndroidStudioProjects/Capsulas/app/src/main/res/layout/fragment_micros.xml" value="0.1" />
+        <entry key="..\:/Users/larr0/AndroidStudioProjects/Capsulas/app/src/main/res/layout/fragment_perfil.xml" value="0.33" />
+        <entry key="..\:/Users/larr0/AndroidStudioProjects/Capsulas/app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
+        <entry key="..\:/Users/larr0/AndroidStudioProjects/Capsulas/app/src/main/res/layout/header.xml" value="0.14" />
+        <entry key="..\:/Users/larr0/AndroidStudioProjects/Capsulas/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Users/larr0/AndroidStudioProjects/Capsulas/app/src/main/res/layout/toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/larr0/AndroidStudioProjects/Capsulas/app/src/main/res/menu/menu1.xml" value="0.33" />
+        <entry key="..\:/Users/larr0/AndroidStudioProjects/Capsulas/app/src/main/res/menu/menu2.xml" value="0.134375" />
+        <entry key="..\:/Users/larr0/AndroidStudioProjects/Capsulas/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
