@@ -5,10 +5,8 @@
     android:layout_height="match_parent"
     tools:context=".Micros">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
+    <ListView
+        android:id="@+id/lvProductos"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="Estoy en las micros" />
-
+        android:layout_height="match_parent" />
 </FrameLayout>
